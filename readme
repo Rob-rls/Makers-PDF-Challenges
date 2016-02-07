@@ -1,0 +1,15 @@
+These are the challenges listed at the end of the Makers Academy PDF challenge.
+I've added the numbering to make it easier to match to the .rb files
+
+CHALLENGES
+1 Write a method that will tell you if a number is odd or even.
+2 Write a method that takes on argument and returns the square of that number.
+3 Write a method called ‘shout’ that takes a String as an input and returns that String in
+capital letters.
+4 Write a ‘greeter’ method that takes a name as an input such that I could write
+“greeter(“Jordan”) and it would display “Hello Jordan! How are you today?”
+5 Iterate over an Array of numbers to display the square of each number in the Array
+6 Iterate over an Array of numbers and only display even numbers (I've included with 5 on my bit of code)
+7 Create a hash containing your 5 best friends, with each persons name as the key
+and their age as the value. Iterate over that Array to display 5 examples that look like:
+“Jordan is 28 years old”
